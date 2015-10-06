@@ -1,2 +1,7 @@
-# hello-world
-A program which says hello world
+hello-world
+===========
+
+Hi Humans!
+
+Hubot here, I like Node.js and Coffeescripts (that's what Im made of!).
+I've had tacos on the moon and find them far superior to Earth tacos.
